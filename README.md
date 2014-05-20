@@ -1,4 +1,4 @@
 krikit.github.io
 ================
 
-krikit's blogs
+krikit's blog
